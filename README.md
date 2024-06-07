@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [URL]([https://your-live-site-url.com](https://frontend-mentor-qr-code-rust.vercel.app/))
 
 ### Built with
 
@@ -27,4 +27,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Linkedin - [typingfe](https://www.linkedin.com/in/typingfe/)
 - Frontend Mentor - [@typingfe](https://www.frontendmentor.io/profile/typingfe)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@typingfe](https://x.com/typingfe)
